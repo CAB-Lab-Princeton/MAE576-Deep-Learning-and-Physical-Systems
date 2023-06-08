@@ -31,9 +31,9 @@ experiment for the work presented with justification.
 7. **Engage in discussion (optional)**. Respond to at least one of your classmates’ reviews by submitting
 a comment. Be positive and generous. Consider the following in your response to the review and
 proposed future direction:
-    a) Strong and weak points. Be as comprehensive as possible
-    b) Questions you would like answered to help clarify your understanding.
-    c) Additional feedback with the aim to improve the review or proposed future direction.
+    - Strong and weak points. Be as comprehensive as possible
+    - Questions you would like answered to help clarify your understanding.
+    - Additional feedback with the aim to improve the review or proposed future direction.
 
 
 
@@ -46,3 +46,6 @@ proposed future direction:
 
 .. rubric:: Footnotes
 .. [1] Adapted from the `ICLR reviewer guide <https://iclr.cc/Conferences/2021/ReviewerGuide>`_.
+
+.. autosummary::
+   :toctree: generated
