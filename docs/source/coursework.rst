@@ -35,17 +35,46 @@ proposed future direction: |br|
     - Questions you would like answered to help clarify your understanding.
     - Additional feedback with the aim to improve the review or proposed future direction.
 
+Programming Assignments
+------------
+Programming assignments are also reviewing assignments. If you are unfamiliar with the code review pro-
+cess, consider looking through `this take on code reviews <https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/>`_. When giving your review consider the following
+guidelines [2]_:
 
+1. **Read the code**. Note strong and weak points. Suggest alternatives or possible workarounds when
+appropriate.
+    - **Strong points**. Is the code unusually elegant or creative?
+    - **Weak points**. Is the code repetitive (remember DRY, Don’t Repeat Yourself)? Is there disagree-
+ment between code and specification? Are there magic numbers? Are bad variable or method
+names used? Is too much packed into one line of code, or a single function? Is obscure code
+adequately commented? Are functions and classes well `documented <https://numpydoc.readthedocs.io/en/latest/format.html>`_?
 
+2. **Engage in discussion**: Consider including the following when responding to your reviewer:
+    - **Constructivity**: Is the review helpful? Does it explain how to improve the code?
+    - **Specificity**: Does the review point to specific things in the code?
+    - **Tone**: Is the tone of the review positive and generous?
 
-
-
+Programming Projects
+------------
+The programming projects are intended to give you the opportunity to independently explore the application
+of deep learning libraries explored in this class (i.e., `pytorch <https://pytorch.org/>`_, 
+`pytorch-geometric <https://pytorch-geometric.readthedocs.io/en/latest/>`_, 
+and `spinning up <https://spinningup.openai.com/en/latest/>`_) to physical
+problems. Your written report should be clear and concise and typed up either using latex (preferred) or
+Word. The report should contain relevant calculations, citations, and visualizations. Please make sure to
+annotate and explain everything you include. For your oral presentation, please present so that the material
+is clear, concise and accessible to the whole class. |br|
+You are free to choose a topic for your project according to your interest. Your work may complement your
+current research but it should not be a repeat of something you have already done in your research. You are
+encouraged to contact me to discuss your ideas for possible topics. Some options for types of projects you
+may consider are described below.
 
 
 
 
 .. rubric:: Footnotes
 .. [1] Adapted from the `ICLR reviewer guide <https://iclr.cc/Conferences/2021/ReviewerGuide>`_.
+.. [2] Adapted from the `Software construction course at MIT <https://web.mit.edu/6.005/www/fa15/general/code-review.html>`_.
 
 .. autosummary::
    :toctree: generated
