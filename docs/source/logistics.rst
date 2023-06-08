@@ -19,6 +19,8 @@ Homework Assignments: 40% |br|
 Final Project and Presentation: 40% |br|
 Class Participation: 20%
 
+.. autosummary::
+   :toctree: generated
 
 .. |br| raw:: html
 
