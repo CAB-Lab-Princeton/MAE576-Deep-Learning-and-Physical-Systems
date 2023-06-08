@@ -44,10 +44,7 @@ guidelines [2]_:
 1. **Read the code**. Note strong and weak points. Suggest alternatives or possible workarounds when
 appropriate.
     - **Strong points**. Is the code unusually elegant or creative?
-    - **Weak points**. Is the code repetitive (remember DRY, Don’t Repeat Yourself)? Is there disagree-
-ment between code and specification? Are there magic numbers? Are bad variable or method
-names used? Is too much packed into one line of code, or a single function? Is obscure code
-adequately commented? Are functions and classes well `documented <https://numpydoc.readthedocs.io/en/latest/format.html>`_?
+    - **Weak points**. Is the code repetitive (remember DRY, Don’t Repeat Yourself)? Is there disagreement between code and specification? Are there magic numbers? Are bad variable or method names used? Is too much packed into one line of code, or a single function? Is obscure code adequately commented? Are functions and classes well `documented <https://numpydoc.readthedocs.io/en/latest/format.html>`_?
 
 2. **Engage in discussion**: Consider including the following when responding to your reviewer:
     - **Constructivity**: Is the review helpful? Does it explain how to improve the code?
