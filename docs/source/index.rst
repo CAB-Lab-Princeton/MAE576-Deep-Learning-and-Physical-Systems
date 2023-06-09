@@ -31,6 +31,10 @@ Websites
 .. note::
    This website is under active development.
 
+.. |br| raw:: html
+   
+     <br>
+
 Contents
 --------
 
@@ -40,6 +44,3 @@ Contents
    coursework
    schedule
    resources
-
-.. |br| raw:: html
-     <br>

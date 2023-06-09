@@ -4,7 +4,7 @@ Resources
 Recommended Texts
 ------------
     - Goodfellow, `Deep Learning <https://www.deeplearningbook.org/>`_
-    - Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veliˇckovi ́c, `Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges <https://arxiv.org/abs/2104.13478>`_`
+    - Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veliˇckovi ́c, `Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges <https://arxiv.org/abs/2104.13478>`_
 
 Programming Resources
 ------------
