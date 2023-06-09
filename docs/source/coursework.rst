@@ -66,6 +66,18 @@ current research but it should not be a repeat of something you have already don
 encouraged to contact me to discuss your ideas for possible topics. Some options for types of projects you
 may consider are described below.
 
+Application project
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The project can consist of the application of deep learning to a particular physical problem that interest
+you. One possibility might be to compare various methods (e.g., engineering vs. deep learning methods) on
+a particular dataset. Another possibility might be compare the performance of a single deep learning model
+on multiple datasets.
+
+Innovation project
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The project could instead an extension/modification of an existing work that embeds some physically motivated 
+structure into the learning model. Be sure to survey the literature and read relevant papers and report
+your hyperparameter tuning method (see `this article <https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide>`_) for all deep learning approaches.
 
 
 
