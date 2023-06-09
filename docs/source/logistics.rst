@@ -13,6 +13,12 @@ Office Hours
 **Instructor Office Hours**: Thursday 3:00pm - 4:00pm at EQuad D334 |br|
 **TA Office Hours**: Wednesday 1:00pm - 2:00pm at EQuad D424
 
+Websites
+------------
+**Canvas**: `<https://canvas.princeton.edu/>`_ |br|
+**Gradescope**: `<https://www.gradescope.com/login>`_ |br|
+**EasyChair**: `<https://easychair.org/>`_
+
 Grading
 ------------
 Homework Assignments: 40% |br|

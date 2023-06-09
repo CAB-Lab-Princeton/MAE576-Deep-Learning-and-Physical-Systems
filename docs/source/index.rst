@@ -10,6 +10,24 @@ assignments will provide exposure to the pytorch, pytorch-geometric, and spinnin
 libraries. Students will engage with weekly reading assignments as peer reviewers in a mock conference setup
 and with each others code through code reviews.
 
+Lectures
+------------
+**Instructor**: Professor Allen-Blanchette (ca15@princeton.edu) |br|
+**Teaching Assistant**: TBD (tbd@princeton.edu) |br|
+**Location**: Friend Center 108 |br|
+**Time**: 1:30-2:50pm Tuesday and Thursday
+
+Office Hours
+------------
+**Instructor Office Hours**: Thursday 3:00pm - 4:00pm at EQuad D334 |br|
+**TA Office Hours**: Wednesday 1:00pm - 2:00pm at EQuad D424
+
+Websites
+------------
+**Canvas**: `<https://canvas.princeton.edu/>`_ |br|
+**Gradescope**: `<https://www.gradescope.com/login>`_ |br|
+**EasyChair**: `<https://easychair.org/>`_
+
 .. note::
    This website is under active development.
 
@@ -20,5 +38,9 @@ Contents
 
    logistics
    coursework
+   schedule
    usage
    api
+
+.. |br| raw:: html
+     <br>
