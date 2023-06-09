@@ -30,7 +30,7 @@ experiment for the work presented with justification.
 
 7. **Engage in discussion (optional)**. Respond to at least one of your classmates’ reviews by submitting
 a comment. Be positive and generous. Consider the following in your response to the review and
-proposed future direction: |br|
+proposed future direction:
     - Strong and weak points. Be as comprehensive as possible
     - Questions you would like answered to help clarify your understanding.
     - Additional feedback with the aim to improve the review or proposed future direction.
@@ -79,7 +79,8 @@ The project could instead an extension/modification of an existing work that emb
 structure into the learning model. Be sure to survey the literature and read relevant papers and report
 your hyperparameter tuning method (see `this article <https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide>`_) for all deep learning approaches.
 
-
+.. |br| raw:: html
+     <br>
 
 .. rubric:: Footnotes
 .. [1] Adapted from the `ICLR reviewer guide <https://iclr.cc/Conferences/2021/ReviewerGuide>`_.
@@ -87,6 +88,3 @@ your hyperparameter tuning method (see `this article <https://neptune.ai/blog/hy
 
 .. autosummary::
    :toctree: generated
-
-.. |br| raw:: html
-     <br>

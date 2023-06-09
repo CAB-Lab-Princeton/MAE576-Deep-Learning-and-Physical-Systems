@@ -32,20 +32,20 @@ Assignments that are more than a week late will not be accepted.
 
 Academic Integrity
 ------------
-Programming is an individual creative process much like composition. You must reach your own under-
-standing of the problem and discover a path to its solution. During this time, discussions with other people
+Programming is an individual creative process much like composition. You must reach your own understanding 
+of the problem and discover a path to its solution. During this time, discussions with other people
 are permitted and encouraged. However, when the time comes to write code that solves the problem, such
 discussions (except with course staff members) are no longer appropriate: the code must be your own work.
-If you have a question about how to use some feature of Python, the operating system, or some other rele-
-vant application, you can certainly ask your friends or the instructors, but specific questions about code you
+If you have a question about how to use some feature of Python, the operating system, or some other relevant 
+application, you can certainly ask your friends or the instructors, but specific questions about code you
 have written must be treated more carefully. For each assignment, you must specifically describe in your
 README.md file, whatever help (if any) that you received from others and tell us the names of any individuals
 with whom you collaborated. This includes help from friends, classmates, and course instructors.
 
 Do not, under any circumstances, copy another person’s code. Incorporating someone else’s code into your
 program in any form is a violation of academic regulations. This includes adapting solutions or partial
-solutions to assignments from any offering of this course or any other course. Abetting plagiarism or unau-
-thorized collaboration by ”sharing” your code is also prohibited. Sharing code in digital form is an especially
+solutions to assignments from any offering of this course or any other course. Abetting plagiarism or unauthorized 
+collaboration by ”sharing” your code is also prohibited. Sharing code in digital form is an especially
 egregious violation: do not e-mail your code or make your source files available to anyone. There is one
 exception to the code-sharing rule: You may adapt code from course materials provided that you explain
 what code you use, and cite its source in your comments.
@@ -71,15 +71,15 @@ plus whatever disciplinary action the Committee imposes.
 Mental Health Resources
 ------------
 Undergraduate students may experience a range of emotional and psychological challenges that can interfere
-with their learning. Strained relationships, increased anxiety, substance or alcohol abuse, depression, diffi-
-culty concentrating and/or lack of motivation are frequently responses to significant stress. Mental health
+with their learning. Strained relationships, increased anxiety, substance or alcohol abuse, depression, difficulty 
+concentrating and/or lack of motivation are frequently responses to significant stress. Mental health
 concerns caused by stressful circumstances that influence your life out of class might affect the quality your
-academic work and otherwise impede your happiness on campus. Princeton makes available numerous ser-
-vices to help support you through difficult moments. You can learn more about confidential mental health ser-
-vices available on campus at `<https://uhs.princeton.edu/counseling-psychological-services>`_. Sup-
-port is available 24-hours-a-day from Counseling and Psychological Services; if your concern is urgent, this
-link will take you to appropriate care: `<https://uhs.princeton.edu/counseling-psychological-services/>`_
-urgent-mental-health-concerns or you can call the Department of Public Safety at 609-258-3333.
+academic work and otherwise impede your happiness on campus. Princeton makes available numerous services 
+to help support you through difficult moments. You can learn more about confidential mental health services 
+available on campus at `<https://uhs.princeton.edu/counseling-psychological-services>`_. Support 
+is available 24-hours-a-day from Counseling and Psychological Services; if your concern is urgent, this
+link will take you to appropriate care: `<https://uhs.princeton.edu/counseling-psychological-services/urgent-mental-health-concerns>`_ 
+or you can call the Department of Public Safety at 609-258-3333.
 
 Disability Services and Academic Accommodations
 ------------
