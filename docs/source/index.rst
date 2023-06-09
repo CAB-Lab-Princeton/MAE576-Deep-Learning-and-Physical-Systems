@@ -39,8 +39,7 @@ Contents
    logistics
    coursework
    schedule
-   usage
-   api
+   resources
 
 .. |br| raw:: html
      <br>
