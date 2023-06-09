@@ -50,8 +50,8 @@ egregious violation: do not e-mail your code or make your source files available
 exception to the code-sharing rule: You may adapt code from course materials provided that you explain
 what code you use, and cite its source in your comments.
 
-Novices often have the misconception that copying and mechanically transforming a program (by rearrang-
-ing independent code, renaming variables, or similar operations) makes it something different. Actually,
+Novices often have the misconception that copying and mechanically transforming a program (by rearranging 
+independent code, renaming variables, or similar operations) makes it something different. Actually,
 identifying plagiarized source code is easier than you might think. Not only does plagiarized code quickly
 identify itself as part of the grading process, but also we can turn to software packages (such as Alex Aiken’s
 renowned MOSS software) for automatic help.

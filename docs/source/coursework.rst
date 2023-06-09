@@ -80,6 +80,7 @@ structure into the learning model. Be sure to survey the literature and read rel
 your hyperparameter tuning method (see `this article <https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide>`_) for all deep learning approaches.
 
 .. |br| raw:: html
+    
      <br>
 
 .. rubric:: Footnotes
