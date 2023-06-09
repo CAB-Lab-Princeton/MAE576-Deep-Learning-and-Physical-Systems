@@ -60,7 +60,7 @@ and `spinning up <https://spinningup.openai.com/en/latest/>`_) to physical
 problems. Your written report should be clear and concise and typed up either using latex (preferred) or
 Word. The report should contain relevant calculations, citations, and visualizations. Please make sure to
 annotate and explain everything you include. For your oral presentation, please present so that the material
-is clear, concise and accessible to the whole class. |br|
+is clear, concise and accessible to the whole class.
 You are free to choose a topic for your project according to your interest. Your work may complement your
 current research but it should not be a repeat of something you have already done in your research. You are
 encouraged to contact me to discuss your ideas for possible topics. Some options for types of projects you
