@@ -3,7 +3,7 @@ Resources
 
 Course Material
 ------------
-1. **Hello** to the google drive for the course, here is the material for the `first chapter <https://drive.google.com/file/d/1OpDkqiTS-u9yO3-q-HoyJEv7Pzfn6OYp/view?usp=drive_link>`_
+1. **Hello** to the google drive for the course, here is the material for the `first chapter <https://drive.google.com/file/d/1OpDkqiTS-u9yO3-q-HoyJEv7Pzfn6OYp/view?usp=sharing>`_
 
 Recommended Texts
 ------------
