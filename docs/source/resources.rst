@@ -1,6 +1,10 @@
 Resources
 =====
 
+Course Material
+------------
+1. **Hello** to the google drive for the course, here is the material for the `first chapter <https://drive.google.com/drive/u/3/folders/0ALZC9XAeRV9hUk9PVA>`_
+
 Recommended Texts
 ------------
     - Goodfellow, `Deep Learning <https://www.deeplearningbook.org/>`_
@@ -12,8 +16,13 @@ Programming Resources
     - `Programming principles <http://web.mit.edu/6.005/www/fa15/classes/04-code-review/>`_
     - `Numpy docstring guide <https://numpydoc.readthedocs.io/en/latest/format.html>`_
 
-
-
+Useful Papers
+------------
+    - `Very Deep Convolutional Networks for Large-Scale Image Recognition <https://arxiv.org/abs/1409.1556>`_
+    - `Group Equivariant Convolutional Networks <https://arxiv.org/abs/1602.07576>`_
+    - `Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data <https://arxiv.org/abs/2002.12880>`_
+    - `Semi-Supervised Classification with Graph Convolutional Networks <https://arxiv.org/abs/1609.02907>`_
+    - `A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"  <https://openreview.net/forum?id=uxgg9o7bI_3>`_
 
 
 
