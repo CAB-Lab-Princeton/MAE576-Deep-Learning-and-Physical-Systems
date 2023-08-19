@@ -26,7 +26,7 @@ Websites
 ------------
 **Canvas**: `<https://canvas.princeton.edu/>`_ |br|
 **Gradescope**: `<https://www.gradescope.com/login>`_ |br|
-**EasyChair**: `<https://easychair.org/>`_
+**EasyChair**: `<https://easychair.org/>`_ |br|
 **Github Code Template**: `<https://github.com/CAB-Lab-Princeton/MAE576-Deep-Learning-and-Physical-Systems-Code-Template>`_
 
 .. note::
