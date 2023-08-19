@@ -1,8 +1,9 @@
-Labs
+Assignments
 =====
 
-This lab schedule should be considered tentative and subject to change.
+Labs
 ------------
+This lab schedule should be considered tentative and subject to change.
     - Lab 1 - `Dataset preprocessing and learning curves <https://drive.google.com/file/d/1tUBRbPJiXXWQV6UJRSa46D6yiMXOai0v/view?usp=drive_link>`_
     - Lab 2 - `Hyperparameter tuning <https://drive.google.com/file/d/1gxanDGe89zleQZqAUI0ikAjr8FzKjITB/view?usp=drive_link>`_
     - Lab 3 - `Backpropogation <https://drive.google.com/file/d/1-DSORKsmRtHNKfLbzwqYWQLmOfAUv5Q4/view?usp=drive_link>`_
