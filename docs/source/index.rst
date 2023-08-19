@@ -27,6 +27,7 @@ Websites
 **Canvas**: `<https://canvas.princeton.edu/>`_ |br|
 **Gradescope**: `<https://www.gradescope.com/login>`_ |br|
 **EasyChair**: `<https://easychair.org/>`_
+**Github Code Template**: `<https://github.com/CAB-Lab-Princeton/MAE576-Deep-Learning-and-Physical-Systems-Code-Template>`_
 
 .. note::
    This website is under active development.
@@ -42,5 +43,6 @@ Contents
 
    logistics
    coursework
+   assignments
    schedule
    resources

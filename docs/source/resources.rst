@@ -15,6 +15,7 @@ Programming Resources
     - `Numpy for MATLAB users <https://numpy.org/doc/stable/user/numpy-for-matlab-users.html>`_
     - `Programming principles <http://web.mit.edu/6.005/www/fa15/classes/04-code-review/>`_
     - `Numpy docstring guide <https://numpydoc.readthedocs.io/en/latest/format.html>`_
+    - `Getting started with Git <https://docs.google.com/document/d/1qHYdZZdHVF2gPAigmfvf5vX8_AGTTuAB/edit?usp=drive_link&ouid=106285010164475960987&rtpof=true&sd=true>`
 
 Useful Papers
 ------------
